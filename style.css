@@ -1,0 +1,31 @@
+
+
+#demo
+{    background-color: yellow;
+    text-align: center  
+
+}
+tr{
+    background-color: yellow;
+    text-align: center
+  }
+
+  table, th, td {
+    border: 1px solid;
+    background-color:wheat;
+    margin: auto;
+    }
+
+#table {
+    display:block;
+    overflow:scroll;
+    height:600px;
+    width: 600px;;
+}
+
+
+
+    
+  
+
+
